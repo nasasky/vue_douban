@@ -1,0 +1,10 @@
+
+    电影：
+          正在热映：/v2/movie/in_theater
+          即将上映：/v2/movie/coming_soon
+          精选榜单：{
+            top 250
+            口碑榜
+            新片榜
+            票房榜
+          }
