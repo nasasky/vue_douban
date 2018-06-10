@@ -1,8 +1,8 @@
 # vcholite_web
 
-> A Vue.js project
+> 闲来无事，使用vue+vue-router+vuex+axios所做的一个项目，项目目前还未完成，后期会完善
 
-## Build Setup
+## 安装
 
 ``` bash
 # install dependencies
